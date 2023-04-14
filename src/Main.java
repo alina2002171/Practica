@@ -17,7 +17,7 @@ public class Main {
         Animal[] animal = {cow,cow1};
 
 
-
+        System.out.println();
 
         Cat cat=new Cat("Kooli","black",3,6,2);
         Cat cat1=new Cat("Solli","black",3,6,2);
